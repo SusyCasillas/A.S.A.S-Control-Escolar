@@ -1,0 +1,20 @@
+.containerSaveRoom{
+    margin-left: 25%;
+    margin-right: 25%;
+    align-items: center;
+    margin-top: 6%;
+}
+.boxontainerClasses{
+    width: 33%;
+    text-align: center;
+}
+.containerAuthAdmin{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+}
+.qrCodeStyle{
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
